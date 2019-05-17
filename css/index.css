@@ -266,7 +266,7 @@ header a {
 }
 @media (max-width: 500px) {
   .home .inverse-content {
-    width: 100%;
+    width: 95%;
   }
 }
 .home .inverse-content .text-content {
@@ -316,6 +316,8 @@ header a {
 @media (max-width: 500px) {
   .home .content-pick {
     flex-direction: column;
+    width: 95%;
+    margin-left: 50px;
   }
   .home .content-pick .destination {
     width: 90%;
@@ -330,7 +332,7 @@ header a {
 }
 @media (max-width: 500px) {
   .home .btn {
-    padding: 10px 100px;
+    padding: 10px 130px;
     color: white;
     background-color: #17a2b8;
     font-size: 20px;
